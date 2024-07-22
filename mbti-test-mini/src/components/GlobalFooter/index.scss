@@ -1,0 +1,19 @@
+.globalFooter{
+  //在页面最底部
+
+  position: absolute;
+
+  bottom: 16px;
+
+  width: 100%;
+
+  height: 50px;
+  //居中
+  display: flex;
+  justify-content: center;
+
+  align-items: center;
+  font-size: 26px;
+  z-index: 3;
+
+}
